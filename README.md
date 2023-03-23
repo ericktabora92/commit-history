@@ -15,7 +15,7 @@ $ npm install
 ```bash
 # watch mode
 $ npm run start:dev
-
+```
 
 ### SET enviroment variables.
 
