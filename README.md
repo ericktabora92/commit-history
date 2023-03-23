@@ -1,4 +1,10 @@
-## Installation
+
+### Installation
+
+```bash
+$ git clone https://github.com/ericktabora92/commit-history.git
+```
+
 
 ```bash
 $ npm install
