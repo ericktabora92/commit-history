@@ -24,5 +24,6 @@ $ npm run start:dev
 
 ```bash
 GIT_API_AUTH_TOKEN=
+```
 
 This should be your personal GIT API TOKEN
